@@ -7,8 +7,7 @@
       <h3><b>MADE BY:</b></h3>
       <p><b>
 		Aman Gupta(4309)<br>
-		Alam Kathat(4306)<br>
-		Ashish Singh(4316)</p></b>
+		Alam Kathat(4306)</p></b>
     </div>
     <div class="col-sm-6">
       <h3><b>Follow Us</h3></b>     
